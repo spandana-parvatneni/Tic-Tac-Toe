@@ -1,0 +1,7 @@
+# Ignore build files
+tictactoe.exe
+*.o
+*.obj
+
+# VS Code configs (optional)
+.vscode/
